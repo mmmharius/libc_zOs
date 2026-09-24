@@ -1,4 +1,4 @@
-#include "libft.h"
+#include "libc.h"
 
 int	ft_toupper(int c)
 {
